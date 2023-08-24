@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shyzd",
+    "texture": "1f39306a-b852-4e2b-9743-5abe80628cbd",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      207,
+      27
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      209,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ztbg",
+    "texture": "53e07a1a-b349-47cd-9001-bf409925e79a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      591,
+      478
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      591,
+      478
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

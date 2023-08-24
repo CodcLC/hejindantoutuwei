@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bl_man",
+    "texture": "2aeeee88-9d07-4d71-967e-ca6ff2f9d42a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      123,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gk-zhang",
+    "texture": "17a8720c-1a8a-4d2f-ae3f-0abf80ede220",
+    "atlas": "1f9a16e3-a619-4eaf-bb25-d6046caecb9a",
+    "rect": [
+      405,
+      92,
+      223,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      103
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

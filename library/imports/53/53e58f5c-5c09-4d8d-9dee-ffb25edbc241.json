@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhujue",
+    "texture": "47428093-6708-414b-bd16-9a9709ff7a98",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      77,
+      353
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      357
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "fqcg-fangqi": {
+      "__uuid__": "3c725f5c-b494-42a0-a0d6-a31e47096787"
+    },
+    "fqcg-jixu": {
+      "__uuid__": "664d1471-28bd-4b0b-8a63-3d1fb6d7b1a0"
+    },
+    "gk-guka0": {
+      "__uuid__": "5936eb52-a9e1-489a-9a2d-0138bf7b7005"
+    },
+    "gk-guka1": {
+      "__uuid__": "55c25e35-7514-4fd6-b701-c2e73e95a221"
+    },
+    "gk-guka2": {
+      "__uuid__": "fc940429-0c47-4f44-8988-874369199407"
+    },
+    "gk-jiaose": {
+      "__uuid__": "4bfc7372-31bc-43e4-bbe4-16917d4333c3"
+    },
+    "gk-shengguan": {
+      "__uuid__": "7d58dd10-eebc-45e1-952f-70abaf74c724"
+    },
+    "gk-shengkai": {
+      "__uuid__": "172dec25-df6b-423f-b9d4-8a7229e756f8"
+    },
+    "gk-shezhi": {
+      "__uuid__": "785dcfd2-3637-4c86-a1a0-ff9c81ce175e"
+    },
+    "gk-shezhidi": {
+      "__uuid__": "3b5b614d-95e6-43b7-8a51-1daf7a807f6b"
+    },
+    "gk-start0": {
+      "__uuid__": "5769b468-80ae-4523-94c5-5c5f2dd438bf"
+    },
+    "gk-start1": {
+      "__uuid__": "ec1355d7-38e8-4a40-9c0c-4fc7ad698b00"
+    },
+    "gk-zhang": {
+      "__uuid__": "e5626b44-5280-4265-aa7f-2bff24e132f3"
+    },
+    "gk-zhangdi": {
+      "__uuid__": "5907e50a-ac00-483d-bf3a-3de260f4d353"
+    },
+    "gk-zhangshang": {
+      "__uuid__": "445847c2-d128-4b91-91f7-9fde3a3be217"
+    },
+    "gk-zhangxia": {
+      "__uuid__": "a3a98269-0401-4742-954b-7dcfe094e1b8"
+    },
+    "gk-zhenguan": {
+      "__uuid__": "230ad1f1-fe53-4b68-af68-69f7afb02eb8"
+    },
+    "gk-zhenkai": {
+      "__uuid__": "32501b81-c28e-4f3b-a418-3d2857fa6473"
+    },
+    "loss-lose": {
+      "__uuid__": "aa7aa225-414f-45aa-bd1c-f6a589129e75"
+    },
+    "loss-restart": {
+      "__uuid__": "88282766-a2c6-4cf4-887e-5977aedab681"
+    },
+    "win-home": {
+      "__uuid__": "9b20b138-18f8-457b-a849-c4452be4e422"
+    },
+    "win-star0": {
+      "__uuid__": "58e47cdb-8384-4cbb-b9e0-b6e9e253e327"
+    },
+    "win-star1": {
+      "__uuid__": "dcaf8aa6-5512-4a88-b22b-330d5c75a72d"
+    },
+    "win-win": {
+      "__uuid__": "d9214cd3-9fa9-43ce-94e7-33e34898d3f4"
+    },
+    "win-xiaguan": {
+      "__uuid__": "d43ad6a5-8d8c-454d-82ad-a76e86c09d8c"
+    },
+    "zt-btn": {
+      "__uuid__": "16606884-57e0-410a-8d31-3151db81680a"
+    },
+    "zt-home": {
+      "__uuid__": "5d45fc21-490f-4b15-a07d-36091f004fee"
+    },
+    "zt-jixu": {
+      "__uuid__": "b0fbb42e-ded4-4e97-9b9f-ec262ebe2783"
+    },
+    "zt-restart": {
+      "__uuid__": "0a6ce0c2-8f79-47d9-8450-da8e32a5d6be"
+    }
+  }
+}

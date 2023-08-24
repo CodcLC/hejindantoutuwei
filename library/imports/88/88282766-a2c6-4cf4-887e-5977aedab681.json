@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loss-restart",
+    "texture": "17a8720c-1a8a-4d2f-ae3f-0abf80ede220",
+    "atlas": "1f9a16e3-a619-4eaf-bb25-d6046caecb9a",
+    "rect": [
+      164,
+      396,
+      204,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

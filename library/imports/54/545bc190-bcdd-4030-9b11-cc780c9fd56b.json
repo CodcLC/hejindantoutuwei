@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ji_fang",
+    "texture": "a9094eb2-11ed-40fc-b6c6-cb53666c2ca6",
+    "atlas": "2a4c8933-3824-49bd-b51c-4f41d2c5669f",
+    "rect": [
+      417,
+      247,
+      33,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

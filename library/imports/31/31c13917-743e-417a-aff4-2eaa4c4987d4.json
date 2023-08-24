@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bl_woman",
+    "texture": "a06a81e2-0c87-44e3-922a-65ed73992dad",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      90,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loadingbg",
+    "texture": "b4b5aa8c-d9b4-45c8-9bcd-1a8e23e06ec2",
+    "atlas": "82a9b684-4c52-4f0c-904f-98282d700caa",
+    "rect": [
+      2,
+      810,
+      1084,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1084,
+      36
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

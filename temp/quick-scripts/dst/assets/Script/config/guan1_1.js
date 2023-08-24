@@ -1,0 +1,131 @@
+
+                (function() {
+                    var nodeEnv = typeof require !== 'undefined' && typeof process !== 'undefined';
+                    var __module = nodeEnv ? module : {exports:{}};
+                    var __filename = 'preview-scripts/assets/Script/config/guan1_1.js';
+                    var __require = nodeEnv ? function (request) {
+                        return cc.require(request);
+                    } : function (request) {
+                        return __quick_compile_project__.require(request, __filename);
+                    };
+                    function __define (exports, require, module) {
+                        if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}"use strict";
+cc._RF.push(module, 'e81a6plL5RMw5qFdB21ozM/', 'guan1_1');
+// Script/config/guan1_1.js
+
+"use strict";
+
+module.exports = {
+  de_bu: {
+    //德国小兵
+    hp: 100,
+    attack: 10,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  de_jun: {
+    //德国军官
+    hp: 135,
+    attack: 10,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  de_pao: {
+    //德国炮兵
+    hp: 150,
+    attack: 10,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  hanjian: {
+    //汉奸
+    hp: 150,
+    attack: 10,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  rb_bu: {
+    //日本步兵
+    hp: 100,
+    attack: 15,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  rb_qi: {
+    //日本骑兵
+    hp: 135,
+    attack: 15,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  rb_quan: {
+    //日本拳手
+    hp: 150,
+    attack: 15,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  rb_zu: {
+    //日本阻击兵
+    hp: 150,
+    attack: 20,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  rb_wu: {
+    //日本阻击兵
+    hp: 150,
+    attack: 20,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  bl_man: {
+    //bolo 男
+    hp: 200,
+    attack: 25,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  },
+  bl_woman: {
+    //bolo 男
+    hp: 250,
+    attack: 25,
+    findX: 40,
+    count: 10,
+    shootLen: 1000 //子弹射程
+
+  }
+};
+
+cc._RF.pop();
+                    }
+                    if (nodeEnv) {
+                        __define(__module.exports, __require, __module);
+                    }
+                    else {
+                        __quick_compile_project__.registerModuleFunc(__filename, function () {
+                            __define(__module.exports, __require, __module);
+                        });
+                    }
+                })();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFzc2V0c1xcU2NyaXB0XFxjb25maWdcXGd1YW4xXzEuanMiXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyIsImRlX2J1IiwiaHAiLCJhdHRhY2siLCJmaW5kWCIsImNvdW50Iiwic2hvb3RMZW4iLCJkZV9qdW4iLCJkZV9wYW8iLCJoYW5qaWFuIiwicmJfYnUiLCJyYl9xaSIsInJiX3F1YW4iLCJyYl96dSIsInJiX3d1IiwiYmxfbWFuIiwiYmxfd29tYW4iXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQUFBLE1BQU0sQ0FBQ0MsT0FBUCxHQUFpQjtBQUNiQyxFQUFBQSxLQUFLLEVBQUU7QUFBRTtBQUNMQyxJQUFBQSxFQUFFLEVBQUUsR0FERDtBQUVIQyxJQUFBQSxNQUFNLEVBQUUsRUFGTDtBQUdIQyxJQUFBQSxLQUFLLEVBQUUsRUFISjtBQUlIQyxJQUFBQSxLQUFLLEVBQUUsRUFKSjtBQUtIQyxJQUFBQSxRQUFRLEVBQUUsSUFMUCxDQUtZOztBQUxaLEdBRE07QUFRYkMsRUFBQUEsTUFBTSxFQUFFO0FBQUU7QUFDTkwsSUFBQUEsRUFBRSxFQUFFLEdBREE7QUFFSkMsSUFBQUEsTUFBTSxFQUFFLEVBRko7QUFHSkMsSUFBQUEsS0FBSyxFQUFFLEVBSEg7QUFJSkMsSUFBQUEsS0FBSyxFQUFFLEVBSkg7QUFLSkMsSUFBQUEsUUFBUSxFQUFFLElBTE4sQ0FLVzs7QUFMWCxHQVJLO0FBZWJFLEVBQUFBLE1BQU0sRUFBRTtBQUFFO0FBQ05OLElBQUFBLEVBQUUsRUFBRSxHQURBO0FBRUpDLElBQUFBLE1BQU0sRUFBRSxFQUZKO0FBR0pDLElBQUFBLEtBQUssRUFBRSxFQUhIO0FBSUpDLElBQUFBLEtBQUssRUFBRSxFQUpIO0FBS0pDLElBQUFBLFFBQVEsRUFBRSxJQUxOLENBS1c7O0FBTFgsR0FmSztBQXNCYkcsRUFBQUEsT0FBTyxFQUFFO0FBQUU7QUFDUFAsSUFBQUEsRUFBRSxFQUFFLEdBREM7QUFFTEMsSUFBQUEsTUFBTSxFQUFFLEVBRkg7QUFHTEMsSUFBQUEsS0FBSyxFQUFFLEVBSEY7QUFJTEMsSUFBQUEsS0FBSyxFQUFFLEVBSkY7QUFLTEMsSUFBQUEsUUFBUSxFQUFFLElBTEwsQ0FLVTs7QUFMVixHQXRCSTtBQTZCYkksRUFBQUEsS0FBSyxFQUFFO0FBQUU7QUFDTFIsSUFBQUEsRUFBRSxFQUFFLEdBREQ7QUFFSEMsSUFBQUEsTUFBTSxFQUFFLEVBRkw7QUFHSEMsSUFBQUEsS0FBSyxFQUFFLEVBSEo7QUFJSEMsSUFBQUEsS0FBSyxFQUFFLEVBSko7QUFLSEMsSUFBQUEsUUFBUSxFQUFFLElBTFAsQ0FLWTs7QUFMWixHQTdCTTtBQW9DYkssRUFBQUEsS0FBSyxFQUFFO0FBQUU7QUFDTFQsSUFBQUEsRUFBRSxFQUFFLEdBREQ7QUFFSEMsSUFBQUEsTUFBTSxFQUFFLEVBRkw7QUFHSEMsSUFBQUEsS0FBSyxFQUFFLEVBSEo7QUFJSEMsSUFBQUEsS0FBSyxFQUFFLEVBSko7QUFLSEMsSUFBQUEsUUFBUSxFQUFFLElBTFAsQ0FLWTs7QUFMWixHQXBDTTtBQTJDYk0sRUFBQUEsT0FBTyxFQUFFO0FBQUU7QUFDUFYsSUFBQUEsRUFBRSxFQUFFLEdBREM7QUFFTEMsSUFBQUEsTUFBTSxFQUFFLEVBRkg7QUFHTEMsSUFBQUEsS0FBSyxFQUFFLEVBSEY7QUFJTEMsSUFBQUEsS0FBSyxFQUFFLEVBSkY7QUFLTEMsSUFBQUEsUUFBUSxFQUFFLElBTEwsQ0FLVTs7QUFMVixHQTNDSTtBQWtEYk8sRUFBQUEsS0FBSyxFQUFFO0FBQUU7QUFDTFgsSUFBQUEsRUFBRSxFQUFFLEdBREQ7QUFFSEMsSUFBQUEsTUFBTSxFQUFFLEVBRkw7QUFHSEMsSUFBQUEsS0FBSyxFQUFFLEVBSEo7QUFJSEMsSUFBQUEsS0FBSyxFQUFFLEVBSko7QUFLSEMsSUFBQUEsUUFBUSxFQUFFLElBTFAsQ0FLWTs7QUFMWixHQWxETTtBQXlEYlEsRUFBQUEsS0FBSyxFQUFFO0FBQUU7QUFDTFosSUFBQUEsRUFBRSxFQUFFLEdBREQ7QUFFSEMsSUFBQUEsTUFBTSxFQUFFLEVBRkw7QUFHSEMsSUFBQUEsS0FBSyxFQUFFLEVBSEo7QUFJSEMsSUFBQUEsS0FBSyxFQUFFLEVBSko7QUFLSEMsSUFBQUEsUUFBUSxFQUFFLElBTFAsQ0FLWTs7QUFMWixHQXpETTtBQWdFYlMsRUFBQUEsTUFBTSxFQUFFO0FBQUU7QUFDTmIsSUFBQUEsRUFBRSxFQUFFLEdBREE7QUFFSkMsSUFBQUEsTUFBTSxFQUFFLEVBRko7QUFHSkMsSUFBQUEsS0FBSyxFQUFFLEVBSEg7QUFJSkMsSUFBQUEsS0FBSyxFQUFFLEVBSkg7QUFLSkMsSUFBQUEsUUFBUSxFQUFFLElBTE4sQ0FLVzs7QUFMWCxHQWhFSztBQXVFYlUsRUFBQUEsUUFBUSxFQUFFO0FBQUU7QUFDUmQsSUFBQUEsRUFBRSxFQUFFLEdBREU7QUFFTkMsSUFBQUEsTUFBTSxFQUFFLEVBRkY7QUFHTkMsSUFBQUEsS0FBSyxFQUFFLEVBSEQ7QUFJTkMsSUFBQUEsS0FBSyxFQUFFLEVBSkQ7QUFLTkMsSUFBQUEsUUFBUSxFQUFFLElBTEosQ0FLUzs7QUFMVDtBQXZFRyxDQUFqQiIsInNvdXJjZVJvb3QiOiIvIiwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSB7XHJcbiAgICBkZV9idTogeyAvL+W+t+WbveWwj+WFtVxyXG4gICAgICAgIGhwOiAxMDAsXHJcbiAgICAgICAgYXR0YWNrOiAxMCxcclxuICAgICAgICBmaW5kWDogNDAsXHJcbiAgICAgICAgY291bnQ6IDEwLFxyXG4gICAgICAgIHNob290TGVuOiAxMDAwIC8v5a2Q5by55bCE56iLXHJcbiAgICB9LFxyXG4gICAgZGVfanVuOiB7IC8v5b635Zu95Yab5a6YXHJcbiAgICAgICAgaHA6IDEzNSxcclxuICAgICAgICBhdHRhY2s6IDEwLFxyXG4gICAgICAgIGZpbmRYOiA0MCxcclxuICAgICAgICBjb3VudDogMTAsXHJcbiAgICAgICAgc2hvb3RMZW46IDEwMDAgLy/lrZDlvLnlsITnqItcclxuICAgIH0sXHJcbiAgICBkZV9wYW86IHsgLy/lvrflm73ngq7lhbVcclxuICAgICAgICBocDogMTUwLFxyXG4gICAgICAgIGF0dGFjazogMTAsXHJcbiAgICAgICAgZmluZFg6IDQwLFxyXG4gICAgICAgIGNvdW50OiAxMCxcclxuICAgICAgICBzaG9vdExlbjogMTAwMCAvL+WtkOW8ueWwhOeoi1xyXG4gICAgfSxcclxuICAgIGhhbmppYW46IHsgLy/msYnlpbhcclxuICAgICAgICBocDogMTUwLFxyXG4gICAgICAgIGF0dGFjazogMTAsXHJcbiAgICAgICAgZmluZFg6IDQwLFxyXG4gICAgICAgIGNvdW50OiAxMCxcclxuICAgICAgICBzaG9vdExlbjogMTAwMCAvL+WtkOW8ueWwhOeoi1xyXG4gICAgfSxcclxuICAgIHJiX2J1OiB7IC8v5pel5pys5q2l5YW1XHJcbiAgICAgICAgaHA6IDEwMCxcclxuICAgICAgICBhdHRhY2s6IDE1LFxyXG4gICAgICAgIGZpbmRYOiA0MCxcclxuICAgICAgICBjb3VudDogMTAsXHJcbiAgICAgICAgc2hvb3RMZW46IDEwMDAgLy/lrZDlvLnlsITnqItcclxuICAgIH0sXHJcbiAgICByYl9xaTogeyAvL+aXpeacrOmqkeWFtVxyXG4gICAgICAgIGhwOiAxMzUsXHJcbiAgICAgICAgYXR0YWNrOiAxNSxcclxuICAgICAgICBmaW5kWDogNDAsXHJcbiAgICAgICAgY291bnQ6IDEwLFxyXG4gICAgICAgIHNob290TGVuOiAxMDAwIC8v5a2Q5by55bCE56iLXHJcbiAgICB9LFxyXG4gICAgcmJfcXVhbjogeyAvL+aXpeacrOaLs+aJi1xyXG4gICAgICAgIGhwOiAxNTAsXHJcbiAgICAgICAgYXR0YWNrOiAxNSxcclxuICAgICAgICBmaW5kWDogNDAsXHJcbiAgICAgICAgY291bnQ6IDEwLFxyXG4gICAgICAgIHNob290TGVuOiAxMDAwIC8v5a2Q5by55bCE56iLXHJcbiAgICB9LFxyXG4gICAgcmJfenU6IHsgLy/ml6XmnKzpmLvlh7vlhbVcclxuICAgICAgICBocDogMTUwLFxyXG4gICAgICAgIGF0dGFjazogMjAsXHJcbiAgICAgICAgZmluZFg6IDQwLFxyXG4gICAgICAgIGNvdW50OiAxMCxcclxuICAgICAgICBzaG9vdExlbjogMTAwMCAvL+WtkOW8ueWwhOeoi1xyXG4gICAgfSxcclxuICAgIHJiX3d1OiB7IC8v5pel5pys6Zi75Ye75YW1XHJcbiAgICAgICAgaHA6IDE1MCxcclxuICAgICAgICBhdHRhY2s6IDIwLFxyXG4gICAgICAgIGZpbmRYOiA0MCxcclxuICAgICAgICBjb3VudDogMTAsXHJcbiAgICAgICAgc2hvb3RMZW46IDEwMDAgLy/lrZDlvLnlsITnqItcclxuICAgIH0sXHJcbiAgICBibF9tYW46IHsgLy9ib2xvIOeUt1xyXG4gICAgICAgIGhwOiAyMDAsXHJcbiAgICAgICAgYXR0YWNrOiAyNSxcclxuICAgICAgICBmaW5kWDogNDAsXHJcbiAgICAgICAgY291bnQ6IDEwLFxyXG4gICAgICAgIHNob290TGVuOiAxMDAwIC8v5a2Q5by55bCE56iLXHJcbiAgICB9LFxyXG4gICAgYmxfd29tYW46IHsgLy9ib2xvIOeUt1xyXG4gICAgICAgIGhwOiAyNTAsXHJcbiAgICAgICAgYXR0YWNrOiAyNSxcclxuICAgICAgICBmaW5kWDogNDAsXHJcbiAgICAgICAgY291bnQ6IDEwLFxyXG4gICAgICAgIHNob290TGVuOiAxMDAwIC8v5a2Q5by55bCE56iLXHJcbiAgICB9LFxyXG59Il19
